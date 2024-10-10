@@ -13,7 +13,7 @@
 #SCRIPT BY SASUKE
   
 #Enter Your Bot Token here get it from @botfarher
-BOT_TOKEN=("7683592167:AAHnyZP99cRLSbwe1wZPF9UCIzX0Kk25O8M")
+BOT_TOKEN=("8082959636:AAHlqiSFIrMyZUMi7XMK5byqbPx0sAsoRFk")
 
   #Enter Your telegram username here without @
 OWNER_USERNAME=("INFLICT_BGMI")
